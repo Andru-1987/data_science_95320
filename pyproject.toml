@@ -1,0 +1,11 @@
+[project]
+name = "data-science-95320"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipython>=9.13.0",
+    "marimo[recommended]>=0.23.4",
+    "pandas>=3.0.2",
+]
