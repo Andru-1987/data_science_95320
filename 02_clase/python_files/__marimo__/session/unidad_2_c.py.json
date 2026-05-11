@@ -1,0 +1,42 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.23.4",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "c013c82c8c50eb7beddf3549bd65d282",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "Jueves -11\nDomingo -1\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "3f34c4898eb2827c5e8131a332a9f8ab",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='MJUe-0' random-id='40a1ea17-33a2-e03e-341d-ffc9b865c4ed'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;D&#92;&#92;u00edas&#92;&quot;:&#92;&quot;Lunes&#92;&quot;,&#92;&quot;Valores&#92;&quot;:200,&#92;&quot;Variaciones&#92;&quot;:NaN},{&#92;&quot;D&#92;&#92;u00edas&#92;&quot;:&#92;&quot;Martes&#92;&quot;,&#92;&quot;Valores&#92;&quot;:225,&#92;&quot;Variaciones&#92;&quot;:25.0},{&#92;&quot;D&#92;&#92;u00edas&#92;&quot;:&#92;&quot;Miercoles&#92;&quot;,&#92;&quot;Valores&#92;&quot;:232,&#92;&quot;Variaciones&#92;&quot;:7.0},{&#92;&quot;D&#92;&#92;u00edas&#92;&quot;:&#92;&quot;Jueves&#92;&quot;,&#92;&quot;Valores&#92;&quot;:221,&#92;&quot;Variaciones&#92;&quot;:-11.0},{&#92;&quot;D&#92;&#92;u00edas&#92;&quot;:&#92;&quot;Viernes&#92;&quot;,&#92;&quot;Valores&#92;&quot;:243,&#92;&quot;Variaciones&#92;&quot;:22.0},{&#92;&quot;D&#92;&#92;u00edas&#92;&quot;:&#92;&quot;Sabado&#92;&quot;,&#92;&quot;Valores&#92;&quot;:256,&#92;&quot;Variaciones&#92;&quot;:13.0},{&#92;&quot;D&#92;&#92;u00edas&#92;&quot;:&#92;&quot;Domingo&#92;&quot;,&#92;&quot;Valores&#92;&quot;:255,&#92;&quot;Variaciones&#92;&quot;:-1.0}]&quot;' data-total-rows='7' data-total-columns='3' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='10' data-field-types='[[&quot;D\u00edas&quot;,[&quot;string&quot;,&quot;str&quot;]],[&quot;Valores&quot;,[&quot;integer&quot;,&quot;int64&quot;]],[&quot;Variaciones&quot;,[&quot;number&quot;,&quot;float64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}

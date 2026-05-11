@@ -1,0 +1,310 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.23.4",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "1d0db38904205bec4d6f6f6a1f6cec3e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "7208586ac2b9907d2e8b87a638f569db",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"ejercicio-1\">Ejercicio 1</h1></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "5177532f6cec0a36f3ef659f44372d02",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"vanilla-forma\">Vanilla forma</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "2e30f3f49999a831bce44858c2a3a1d9",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "Dias en donde decrecio la accion: [('Jueves', -11), ('Domingo', -1)]\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "b0d821d6ce404c1d03b0ff732c73fd1a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "application/json": "[200, 225, 232, 221, 243, 256]"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "814a2000ca001535994ca8deae7f74c3",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"primera-forma\">Primera forma</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Xref",
+      "code_hash": "01d99289b6b0471328d398aed326687b",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "Jueves -11\nDomingo -1\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "SFPL",
+      "code_hash": "855fb5c214fff4f8751ef64310896bbc",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"segunda-forma\">Segunda forma</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "BYtC",
+      "code_hash": "c434188d8b49f7a207cd1ca630b2982b",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='BYtC-0' random-id='6a9539c7-842f-f851-4a49-e49fd4bade76'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;Dias&#92;&quot;:&#92;&quot;Lunes&#92;&quot;,&#92;&quot;Valores&#92;&quot;:200},{&#92;&quot;Dias&#92;&quot;:&#92;&quot;Martes&#92;&quot;,&#92;&quot;Valores&#92;&quot;:225},{&#92;&quot;Dias&#92;&quot;:&#92;&quot;Miercoles&#92;&quot;,&#92;&quot;Valores&#92;&quot;:232},{&#92;&quot;Dias&#92;&quot;:&#92;&quot;Jueves&#92;&quot;,&#92;&quot;Valores&#92;&quot;:221},{&#92;&quot;Dias&#92;&quot;:&#92;&quot;Viernes&#92;&quot;,&#92;&quot;Valores&#92;&quot;:243},{&#92;&quot;Dias&#92;&quot;:&#92;&quot;Sabado&#92;&quot;,&#92;&quot;Valores&#92;&quot;:256},{&#92;&quot;Dias&#92;&quot;:&#92;&quot;Domingo&#92;&quot;,&#92;&quot;Valores&#92;&quot;:255}]&quot;' data-total-rows='7' data-total-columns='2' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='10' data-field-types='[[&quot;Dias&quot;,[&quot;string&quot;,&quot;str&quot;]],[&quot;Valores&quot;,[&quot;integer&quot;,&quot;int64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "RGSE",
+      "code_hash": "902c1b592ffef95e5e1c772b5a289379",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='RGSE-0' random-id='8d933b12-8dc9-890b-d970-7d3ff8ca1249'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;Dias&#92;&quot;:&#92;&quot;Lunes&#92;&quot;,&#92;&quot;Valores&#92;&quot;:200,&#92;&quot;Variaciones&#92;&quot;:NaN},{&#92;&quot;Dias&#92;&quot;:&#92;&quot;Martes&#92;&quot;,&#92;&quot;Valores&#92;&quot;:225,&#92;&quot;Variaciones&#92;&quot;:25.0},{&#92;&quot;Dias&#92;&quot;:&#92;&quot;Miercoles&#92;&quot;,&#92;&quot;Valores&#92;&quot;:232,&#92;&quot;Variaciones&#92;&quot;:7.0},{&#92;&quot;Dias&#92;&quot;:&#92;&quot;Jueves&#92;&quot;,&#92;&quot;Valores&#92;&quot;:221,&#92;&quot;Variaciones&#92;&quot;:-11.0},{&#92;&quot;Dias&#92;&quot;:&#92;&quot;Viernes&#92;&quot;,&#92;&quot;Valores&#92;&quot;:243,&#92;&quot;Variaciones&#92;&quot;:22.0},{&#92;&quot;Dias&#92;&quot;:&#92;&quot;Sabado&#92;&quot;,&#92;&quot;Valores&#92;&quot;:256,&#92;&quot;Variaciones&#92;&quot;:13.0},{&#92;&quot;Dias&#92;&quot;:&#92;&quot;Domingo&#92;&quot;,&#92;&quot;Valores&#92;&quot;:255,&#92;&quot;Variaciones&#92;&quot;:-1.0}]&quot;' data-total-rows='7' data-total-columns='3' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='10' data-field-types='[[&quot;Dias&quot;,[&quot;string&quot;,&quot;str&quot;]],[&quot;Valores&quot;,[&quot;integer&quot;,&quot;int64&quot;]],[&quot;Variaciones&quot;,[&quot;number&quot;,&quot;float64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Kclp",
+      "code_hash": "8bb9ceaf9fa0058be5f8482e1397803d",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='Kclp-0' random-id='df10b026-e3e6-c941-80f2-b7bb600bfad3'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;Variaciones&#92;&quot;:false},{&#92;&quot;Variaciones&#92;&quot;:false},{&#92;&quot;Variaciones&#92;&quot;:false},{&#92;&quot;Variaciones&#92;&quot;:true},{&#92;&quot;Variaciones&#92;&quot;:false},{&#92;&quot;Variaciones&#92;&quot;:false},{&#92;&quot;Variaciones&#92;&quot;:true}]&quot;' data-total-rows='7' data-total-columns='1' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='10' data-field-types='[[&quot;Variaciones&quot;,[&quot;boolean&quot;,&quot;bool&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "emfo",
+      "code_hash": "14002652cbb9422ba37b2744402d717e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='emfo-0' random-id='a0d098a3-4285-ee0e-7444-8cc098bf5046'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;Dias&#92;&quot;:&#92;&quot;Jueves&#92;&quot;,&#92;&quot;Valores&#92;&quot;:221,&#92;&quot;Variaciones&#92;&quot;:-11.0},{&#92;&quot;Dias&#92;&quot;:&#92;&quot;Domingo&#92;&quot;,&#92;&quot;Valores&#92;&quot;:255,&#92;&quot;Variaciones&#92;&quot;:-1.0}]&quot;' data-total-rows='2' data-total-columns='3' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='10' data-field-types='[[&quot;Dias&quot;,[&quot;string&quot;,&quot;str&quot;]],[&quot;Valores&quot;,[&quot;integer&quot;,&quot;int64&quot;]],[&quot;Variaciones&quot;,[&quot;number&quot;,&quot;float64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Hstk",
+      "code_hash": "377fbc48658f47aba8f31a32e4da96fa",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"ejercicio-2\">Ejercicio 2</h1></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "nWHF",
+      "code_hash": "6be0203620ef905d64de18bb896ccb9f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "iLit",
+      "code_hash": "c0d89b730de75c2211589cdcc8e94fc9",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "application/json": "[\"text/plain+float:19.200000000000045\", \"text/plain+float:21.60000000000008\", \"text/plain+float:22.272000000000048\", \"text/plain+float:21.216000000000008\", \"text/plain+float:23.328000000000088\", \"text/plain+float:245.37600000000066\", \"text/plain+float:2.4000000000000057\"]"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ZHCJ",
+      "code_hash": "5ce72975617ced37bbb9ece9ddf6b743",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>355.39200000000096</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ROlb",
+      "code_hash": "15f71ed38ff85d4613db3625ffdc0283",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">Estar\u00edan conformes con esta cantidad ganada luego de una semana si el tiempo para coseguir el objetivo es 2 horas diarias todos los d\u00edas</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "qnkX",
+      "code_hash": "69f1c43a0990364c1985ed35ba1fa003",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"ejercicio-3\">Ejercicio 3</h1></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "TqIu",
+      "code_hash": "9351e74b3695a4a0d7a346eeb99ac2f0",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='TqIu-0' random-id='281938af-da43-1869-ce3c-01c85e255d84'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;formatted_date&#92;&quot;:&#92;&quot;2016-01-01&#92;&quot;,&#92;&quot;MCD&#92;&quot;:106.33214569091795,&#92;&quot;SBUX&#92;&quot;:54.35396194458008,&#92;&quot;GOOG&#92;&quot;:742.9500122070312,&#92;&quot;AMZN&#92;&quot;:587.0,&#92;&quot;MSFT&#92;&quot;:49.85348892211914,&#92;&quot;JPM&#92;&quot;:50.4249382019043,&#92;&quot;BAC&#92;&quot;:12.573010444641112,&#92;&quot;C&#92;&quot;:36.89780426025391,&#92;&quot;MAR&#92;&quot;:57.754188537597656,&#92;&quot;HLT&#92;&quot;:35.192840576171875,&#92;&quot;RCL&#92;&quot;:74.23529815673828,&#92;&quot;V&#92;&quot;:71.57437133789062,&#92;&quot;MA&#92;&quot;:85.82262420654297,&#92;&quot;PYPL&#92;&quot;:36.13999938964844},{&#92;&quot;formatted_date&#92;&quot;:&#92;&quot;2016-02-01&#92;&quot;,&#92;&quot;MCD&#92;&quot;:100.6710433959961,&#92;&quot;SBUX&#92;&quot;:52.06424331665039,&#92;&quot;GOOG&#92;&quot;:697.77001953125,&#92;&quot;AMZN&#92;&quot;:552.52001953125,&#92;&quot;MSFT&#92;&quot;:46.04366683959961,&#92;&quot;JPM&#92;&quot;:48.03306579589844,&#92;&quot;BAC&#92;&quot;:11.132539749145508,&#92;&quot;C&#92;&quot;:33.70710754394531,&#92;&quot;MAR&#92;&quot;:64.22891235351562,&#92;&quot;HLT&#92;&quot;:41.06160736083984,&#92;&quot;RCL&#92;&quot;:67.36064910888672,&#92;&quot;V&#92;&quot;:69.55657958984375,&#92;&quot;MA&#92;&quot;:83.9565658569336,&#92;&quot;PYPL&#92;&quot;:38.13999938964844},{&#92;&quot;formatted_date&#92;&quot;:&#92;&quot;2016-03-01&#92;&quot;,&#92;&quot;MCD&#92;&quot;:108.78221130371094,&#92;&quot;SBUX&#92;&quot;:53.57144165039063,&#92;&quot;GOOG&#92;&quot;:744.9500122070312,&#92;&quot;AMZN&#92;&quot;:593.6400146484375,&#92;&quot;MSFT&#92;&quot;:50.33903121948242,&#92;&quot;JPM&#92;&quot;:50.524322509765625,&#92;&quot;BAC&#92;&quot;:12.02171802520752,&#92;&quot;C&#92;&quot;:36.22321701049805,&#92;&quot;MAR&#92;&quot;:67.33662414550781,&#92;&quot;HLT&#92;&quot;:44.49988555908203,&#92;&quot;RCL&#92;&quot;:74.79000854492188,&#92;&quot;V&#92;&quot;:73.63147735595703,&#92;&quot;MA&#92;&quot;:91.27816009521484,&#92;&quot;PYPL&#92;&quot;:38.59999847412109},{&#92;&quot;formatted_date&#92;&quot;:&#92;&quot;2016-04-01&#92;&quot;,&#92;&quot;MCD&#92;&quot;:109.48330688476562,&#92;&quot;SBUX&#92;&quot;:50.457645416259766,&#92;&quot;GOOG&#92;&quot;:693.010009765625,&#92;&quot;AMZN&#92;&quot;:659.5900268554688,&#92;&quot;MSFT&#92;&quot;:45.453704833984375,&#92;&quot;JPM&#92;&quot;:53.9199104309082,&#92;&quot;BAC&#92;&quot;:12.995729446411133,&#92;&quot;C&#92;&quot;:40.15354537963867,&#92;&quot;MAR&#92;&quot;:66.30546569824219,&#92;&quot;HLT&#92;&quot;:43.71604919433594,&#92;&quot;RCL&#92;&quot;:70.46558380126953,&#92;&quot;V&#92;&quot;:74.36314392089844,&#92;&quot;MA&#92;&quot;:93.68325805664062,&#92;&quot;PYPL&#92;&quot;:39.18000030517578},{&#92;&quot;formatted_date&#92;&quot;:&#92;&quot;2016-05-01&#92;&quot;,&#92;&quot;MCD&#92;&quot;:105.64892578125,&#92;&quot;SBUX&#92;&quot;:49.25520324707031,&#92;&quot;GOOG&#92;&quot;:735.719970703125,&#92;&quot;AMZN&#92;&quot;:722.7899780273438,&#92;&quot;MSFT&#92;&quot;:48.30651473999024,&#92;&quot;JPM&#92;&quot;:56.09822463989258,&#92;&quot;BAC&#92;&quot;:13.201019287109377,&#92;&quot;C&#92;&quot;:40.4478874206543,&#92;&quot;MAR&#92;&quot;:62.47415542602539,&#92;&quot;HLT&#92;&quot;:41.19815444946289,&#92;&quot;RCL&#92;&quot;:70.45647430419922,&#92;&quot;V&#92;&quot;:75.99984741210938,&#92;&quot;MA&#92;&quot;:92.81732940673828,&#92;&quot;PYPL&#92;&quot;:37.790000915527344}]&quot;' data-total-rows='5' data-total-columns='14' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='10' data-field-types='[[&quot;MCD&quot;,[&quot;number&quot;,&quot;float64&quot;]],[&quot;SBUX&quot;,[&quot;number&quot;,&quot;float64&quot;]],[&quot;GOOG&quot;,[&quot;number&quot;,&quot;float64&quot;]],[&quot;AMZN&quot;,[&quot;number&quot;,&quot;float64&quot;]],[&quot;MSFT&quot;,[&quot;number&quot;,&quot;float64&quot;]],[&quot;JPM&quot;,[&quot;number&quot;,&quot;float64&quot;]],[&quot;BAC&quot;,[&quot;number&quot;,&quot;float64&quot;]],[&quot;C&quot;,[&quot;number&quot;,&quot;float64&quot;]],[&quot;MAR&quot;,[&quot;number&quot;,&quot;float64&quot;]],[&quot;HLT&quot;,[&quot;number&quot;,&quot;float64&quot;]],[&quot;RCL&quot;,[&quot;number&quot;,&quot;float64&quot;]],[&quot;V&quot;,[&quot;number&quot;,&quot;float64&quot;]],[&quot;MA&quot;,[&quot;number&quot;,&quot;float64&quot;]],[&quot;PYPL&quot;,[&quot;number&quot;,&quot;float64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[[&quot;formatted_date&quot;,[&quot;string&quot;,&quot;str&quot;]]]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Vxnm",
+      "code_hash": "74a8b9c95d9a5d32e547d3ce625af72c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "Accion: MCD Media:  166.14136354688188 Desviacion:  42.87605387768779 Varianza:  1838.3559961223862\n---------------------\nAccion: SBUX Media:  70.46769494070134 Desviacion:  22.053341500098696 Varianza:  486.3498713199754\n---------------------\nAccion: GOOG Media:  1309.2360573352223 Desviacion:  583.4365503451131 Varianza:  340398.20827860566\n---------------------\nAccion: AMZN Media:  1844.6280251086598 Desviacion:  944.3973366079509 Varianza:  891886.3293921914\n---------------------\nAccion: MSFT Media:  133.1321131746534 Desviacion:  77.76576844521375 Varianza:  6047.514741874602\n---------------------\nAccion: JPM Media:  99.24106511935382 Desviacion:  30.23569525028122 Varianza:  914.1972672678784\n---------------------\nAccion: BAC Media:  25.946567723448847 Desviacion:  8.08916750913528 Varianza:  65.43463099084987\n---------------------\nAccion: C Media:  56.73550699798154 Desviacion:  10.997466136744357 Varianza:  120.94426142883884\n---------------------\nAccion: MAR Media:  111.31245642648616 Desviacion:  28.170181452585247 Varianza:  793.5591230715778\n---------------------\nAccion: HLT Media:  81.47839183538733 Desviacion:  26.520323630173124 Varianza:  703.327565449119\n---------------------\nAccion: RCL Media:  90.85142944228481 Desviacion:  22.909133430646907 Varianza:  524.8283945431837\n---------------------\nAccion: V Media:  145.27841272488448 Desviacion:  52.414161839201256 Varianza:  2747.244361305981\n---------------------\nAccion: MA Media:  218.65182151257153 Desviacion:  95.46965898162611 Varianza:  9114.455786067983\n---------------------\nAccion: PYPL Media:  115.61746446851274 Desviacion:  75.91408724106374 Varianza:  5762.948641643836\n---------------------\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "DnEU",
+      "code_hash": "8f8acbcb0d7815db410ed5c92fa640ec",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "Accion: MCD Maximo:  244.1961975097656 Minimo:  98.9138412475586\n---------------------\nAccion: SBUX Maximo:  120.44119262695312 Minimo:  45.65204620361328\n---------------------\nAccion: GOOG Maximo:  2965.409912109375 Minimo:  692.0999755859375\n---------------------\nAccion: AMZN Maximo:  3507.070068359375 Minimo:  552.52001953125\n---------------------\nAccion: MSFT Maximo:  331.014404296875 Minimo:  45.453704833984375\n---------------------\nAccion: JPM Maximo:  168.8723907470703 Minimo:  48.03306579589844\n---------------------\nAccion: BAC Maximo:  47.55112838745117 Minimo:  11.132539749145508\n---------------------\nAccion: C Maximo:  77.56448364257812 Minimo:  33.70710754394531\n---------------------\nAccion: MAR Maximo:  160.02000427246094 Minimo:  57.754188537597656\n---------------------\nAccion: HLT Maximo:  143.9499969482422 Minimo:  35.192840576171875\n---------------------\nAccion: RCL Maximo:  131.3896026611328 Minimo:  31.85381126403809\n---------------------\nAccion: V Maximo:  245.62217712402344 Minimo:  69.55657958984375\n---------------------\nAccion: MA Maximo:  384.9994201660156 Minimo:  83.9565658569336\n---------------------\nAccion: PYPL Maximo:  291.4800109863281 Minimo:  36.13999938964844\n---------------------\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    }
+  ]
+}
