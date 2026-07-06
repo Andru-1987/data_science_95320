@@ -1,0 +1,39 @@
+{
+    "mejor_modelo_seleccionado": "Random Forest",
+    "criterio_seleccion": "Maximo AUC ROC en Validacion Cruzada de 5 folds",
+    "metricas_detalladas": {
+        "Regresión Logística": {
+            "auc_roc_promedio": 0.9259,
+            "desviacion_estandar": 0.0165,
+            "scores_por_fold": [
+                0.9543,
+                0.9053,
+                0.9256,
+                0.9153,
+                0.929
+            ]
+        },
+        "Árbol de Decisión": {
+            "auc_roc_promedio": 0.7987,
+            "desviacion_estandar": 0.0251,
+            "scores_por_fold": [
+                0.8018,
+                0.7532,
+                0.808,
+                0.83,
+                0.8003
+            ]
+        },
+        "Random Forest": {
+            "auc_roc_promedio": 0.9337,
+            "desviacion_estandar": 0.0188,
+            "scores_por_fold": [
+                0.9659,
+                0.9073,
+                0.9345,
+                0.9332,
+                0.9276
+            ]
+        }
+    }
+}
